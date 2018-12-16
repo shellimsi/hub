@@ -1,9 +1,11 @@
 language: go
 go:
-  - master
+ - "1.10.x"
+ - master
 jobs:
   include:
     - stage: test
       name: "Run test"   
       script:
+        - export GO111MODULE=on
         - go test -v
