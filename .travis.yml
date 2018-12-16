@@ -6,5 +6,5 @@ jobs:
     - stage: test
       name: "Run test"   
       script:
-        - export GO111MODULE=on
-        - go test -v
+        - env GO111MODULE=on go build 
+        - env GO111MODULE=on go test -v
