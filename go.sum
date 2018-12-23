@@ -1,5 +1,6 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
+github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b h1:VKtxabqXZkF25pY9ekfRL6a582T4P37/31XEstQ5p58=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/mock v1.1.1/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
 github.com/golang/protobuf v1.2.0 h1:P3YflyNX/ehuJFLhxviNdFxQPkGK5cDcApsge1SqnvM=
@@ -10,6 +11,7 @@ github.com/shellimsi/proto v0.0.0-20181216182710-c206c58cff06 h1:1F6fWySNzWBZ0aC
 github.com/shellimsi/proto v0.0.0-20181216182710-c206c58cff06/go.mod h1:7fiM934K4uvPuIQFScn0zhThZQNRUVcLYnq4a/zqKeA=
 github.com/shellimsi/proto v0.0.1 h1:GhxzpbszOSAKbaSY0qBIAs2gqkZMNAOAx7CkE+4MJhI=
 github.com/shellimsi/proto v0.0.1/go.mod h1:7fiM934K4uvPuIQFScn0zhThZQNRUVcLYnq4a/zqKeA=
+golang.org/x/debug v0.0.0-20181113171635-66907db09ddd h1:DuCQteqyVXhvAmnHkR99P61U7/wmMdfs4LVKVeJSW/4=
 golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
 golang.org/x/net v0.0.0-20180826012351-8a410e7b638d h1:g9qWBGx4puODJTMVyoPrpoxPFgVGd+z1DZwjfRu4d0I=
 golang.org/x/net v0.0.0-20180826012351-8a410e7b638d/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=

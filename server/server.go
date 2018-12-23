@@ -7,7 +7,9 @@ import (
 )
 
 // server is used to implement helloworld.GreeterServer.
-type Server struct{}
+type Server struct {
+	Port string
+}
 
 // SayHello implements helloworld.GreeterServer
 func (s *Server) Resize(ctx context.Context, in *hub.WinsizeRequest) (*hub.WinsizeResponse, error) {
